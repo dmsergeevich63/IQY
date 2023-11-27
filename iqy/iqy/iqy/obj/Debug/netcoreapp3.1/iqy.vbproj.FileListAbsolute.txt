@@ -1,0 +1,13 @@
+C:\Users\Dima\source\repos\iqy\iqy\obj\Debug\netcoreapp3.1\iqy.vbprojAssemblyReference.cache
+C:\Users\Dima\source\repos\iqy\iqy\obj\Debug\netcoreapp3.1\iqy.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\iqy\iqy\obj\Debug\netcoreapp3.1\iqy.AssemblyInfo.vb
+C:\Users\Dima\source\repos\iqy\iqy\bin\Debug\netcoreapp3.1\iqy.exe
+C:\Users\Dima\source\repos\iqy\iqy\bin\Debug\netcoreapp3.1\iqy.deps.json
+C:\Users\Dima\source\repos\iqy\iqy\bin\Debug\netcoreapp3.1\iqy.runtimeconfig.json
+C:\Users\Dima\source\repos\iqy\iqy\bin\Debug\netcoreapp3.1\iqy.runtimeconfig.dev.json
+C:\Users\Dima\source\repos\iqy\iqy\bin\Debug\netcoreapp3.1\iqy.dll
+C:\Users\Dima\source\repos\iqy\iqy\bin\Debug\netcoreapp3.1\iqy.pdb
+C:\Users\Dima\source\repos\iqy\iqy\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Dima\source\repos\iqy\iqy\obj\Debug\netcoreapp3.1\iqy.vbproj.CopyComplete
+C:\Users\Dima\source\repos\iqy\iqy\obj\Debug\netcoreapp3.1\iqy.dll
+C:\Users\Dima\source\repos\iqy\iqy\obj\Debug\netcoreapp3.1\iqy.pdb
